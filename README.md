@@ -6,5 +6,5 @@ This is HD wallpaper for PC/Laptop or Mobile.
 
 `#DevFestKol` `#DevFest19`
 
-### Copyright
-Sourav Mondal
+### © Copyright
+[Sourav Mondal](http://thesourav.com/)
