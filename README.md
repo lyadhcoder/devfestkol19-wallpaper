@@ -2,7 +2,6 @@
 
 This is HD wallpaper for PC/Laptop or Mobile.
 
-DevFest Kolkata is the largest gathering of Google Developer Groups in the Eastern region of India.
-```bash
-#DevFestKol #DevFest19
-```
+[DevFest Kolkata](https://devfest.gdgkolkata.org/home) is the largest gathering of [Google Developer Groups](https://developers.google.com/) in the Eastern region of India.
+
+`#DevFestKol` `#DevFest19`
